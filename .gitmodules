@@ -1,0 +1,3 @@
+[submodule "vpn-from-scratch"]
+	path = vadimpiven
+	url = https://github.com/vadimpiven/vpn-from-scratch
