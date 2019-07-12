@@ -22,3 +22,23 @@ In order to achieve all this goals, we must follow game rules.
 - Discuss the task and the results, publish everything on github
 - If one of participants have not completed the task, it should be completed anyway till the end of the week
 This set of rules can be changed during the game if all participants will agree on this.
+
+## Task
+
+### Definition
+Write our own VPN server using Golang with ability to change it's settings using the web-interface, mobile and desktop client apps should be written using Kotlin, researches on UI/UX design of this apps should be made previously.
+
+### Similar tasks
+- [Как написать VPN-сервер](http://qaru.site/questions/368626/how-to-write-a-vpn-server)
+- [How do you make your own VPN?](https://www.quora.com/How-do-you-make-your-own-VPN)
+
+### Useful materials
+- [Сети для самых маленьких](https://habr.com/ru/post/134892/)
+- [Методы и средства защиты информации](https://www.coursera.org/learn/metody-i-sredstva-zashity-informacii)
+- [Что такое TLS-рукопожатие и как оно устроено](https://tproger.ru/articles/tls-handshake-explained/)
+- [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1), [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2)
+- [Kotlin](https://stepik.org/course/2852/promo)
+- [Принципы разработки пользовательского интерфейса](https://medium.com/начинающему-ux-дизайнеру/принципы-проектирования-пользовательских-интерфейсов-cc36718c7e9f)
+
+## Study and work timeline
+1. Licenses and administrative responsibility (2019/07/11)
