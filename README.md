@@ -33,7 +33,7 @@ Write our own VPN server using Golang with ability to change it's settings using
 - [How do you make your own VPN?](https://www.quora.com/How-do-you-make-your-own-VPN)
 
 ### Useful materials
-- [Сети для самых маленьких](https://habr.com/ru/post/134892/)
+- [Сети для самых маленьких](https://linkmeup.ru/blog/11.html)
 - [Методы и средства защиты информации](https://www.coursera.org/learn/metody-i-sredstva-zashity-informacii)
 - [Что такое TLS-рукопожатие и как оно устроено](https://tproger.ru/articles/tls-handshake-explained/)
 - [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1), [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2)
