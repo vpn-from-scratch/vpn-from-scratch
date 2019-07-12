@@ -26,7 +26,7 @@ This set of rules can be changed during the game if all participants will agree 
 ## Task
 
 ### Definition
-Write our own VPN server using Golang with ability to change it's settings using the web-interface, mobile and desktop client apps should be written using Kotlin, researches on UI/UX design of this apps should be made previously.
+Write our own VPN server using Golang with ability to change its settings using the web-interface, mobile and desktop client apps should be written using Kotlin, researches on UI/UX design of this apps should be made previously.
 
 ### Similar tasks
 - [Как написать VPN-сервер](http://qaru.site/questions/368626/how-to-write-a-vpn-server)
@@ -42,3 +42,4 @@ Write our own VPN server using Golang with ability to change it's settings using
 
 ## Study and work timeline
 1. Licenses and administrative responsibility (2019/07/11)
+2. Network connection basics, parts 0-1 (2019/07/12)
