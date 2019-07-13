@@ -1,3 +1,6 @@
 [submodule "vpn-from-scratch"]
 	path = vadimpiven
 	url = https://github.com/vadimpiven/vpn-from-scratch
+[submodule "ariolwork"]
+	path = ariolwork
+	url = https://github.com/ariolwork/vpn-from-scratch/
